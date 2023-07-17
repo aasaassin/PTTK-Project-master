@@ -1,0 +1,35 @@
+C:\Users\T\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.exe.config
+C:\Users\T\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.exe
+C:\Users\T\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.pdb
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csprojAssemblyReference.cache
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Form1.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Properties.Resources.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csproj.GenerateResource.cache
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.exe
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.pdb
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Trangchu.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Dangkyhocphan.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Tracuuketqua.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Tracuuhocvien.resources
+C:\Users\T\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Xulythanhtoan.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.exe.config
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.exe
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\bin\Debug\TrungTamTinHoc.pdb
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csprojAssemblyReference.cache
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Dangkyhocphan.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Properties.Resources.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Tracuuhocvien.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Tracuuketqua.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Trangchu.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Xulythanhtoan.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csproj.GenerateResource.cache
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.exe
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.pdb
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.ChungChiQuocTe.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.TKB.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Quanlyhocphan.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Login.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.ChiTietHoaDon.resources
+C:\Users\Chi Duyy\source\repos\TrungTamTinHoc\obj\Debug\TrungTamTinHoc.Themhocphan.resources
